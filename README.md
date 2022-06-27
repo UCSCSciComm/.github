@@ -5,7 +5,7 @@ A place to store and publish code for interactive charts and maps for Science No
 ### How to use
 
 - First create a personal GitHub account by clicking the `Sign up` button on the [GitHub home page](https://github.com/).
-- Share your GitHub user name with Peter Aldhous (paldhous@ucsc.edu)
+- Share your GitHub user name with Peter Aldhous (paldhous@ucsc.edu).
 - Peter will create a repository in this Organization for you with the format `firstname-lastname` (where `firstname` and `lastname` are your names).
 - Navigate to your repository online at `https://github.com/UCSCSciComm/firstname-lastname`.
 - Click the `Add file` button, then select `Upload file`. Upload the HTML file(s) with your charts or maps and then click the `Commit changes` button.
