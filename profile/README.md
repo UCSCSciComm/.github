@@ -1,10 +1,10 @@
 # UCSC Science Communication Program
 
-A place to store and publish code for interactive charts and maps for Science Notes features and other projects.
+A place to store and publish code for interactive charts and maps for Science Notes features and other projects. 
 
 ### How to use
 
-- First create a personal GitHub account by clicking the `Sign up` button on the [GitHub home page](https://github.com/).
+- First create a personal GitHub account by clicking the `Sign up` button on the [GitHub home page](https://github.com/). Setting up [two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa) for your account is *strongly recommended*.
 - Share your GitHub user name with Peter Aldhous (paldhous@ucsc.edu)
 - Peter will create a repository in this Organization for you with the format `firstname-lastname` (where `firstname` and `lastname` are your names).
 - Navigate to your repository online at `https://github.com/UCSCSciComm/firstname-lastname`.
